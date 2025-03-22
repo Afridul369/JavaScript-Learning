@@ -26,9 +26,9 @@ const url = "https://afridul.com"
 //console.log(url.replace("https","http")); //http://afridul.com
 //console.log(url.includes("https")); // true
  let demo2 = "afridul-pc-builder"
- //console.log(demo2.split("-")); // ['afridul', 'pc', 'builder']
+ console.log(demo2.split("-")); // ['afridul', 'pc', 'builder']
  // ** [split convert String to Array]
 
- 
+
  
 
