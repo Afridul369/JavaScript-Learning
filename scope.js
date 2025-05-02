@@ -14,3 +14,7 @@ function abir (){
 }
 // console.log(two); // eta execute hbe na karone scope r baire two k call disi tai
 abir()
+abir()
+abir()
+abir()
+abir()
